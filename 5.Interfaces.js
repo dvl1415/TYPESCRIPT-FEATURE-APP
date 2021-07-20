@@ -4,5 +4,10 @@
 function showToDo(todo) {
     console.log(todo.title + ':' + todo.text);
 }
-var myToDo = { title: 'Angular', text: 'Javascript Framework' };
+var myToDo = { title: 'Angular',
+    text: 'Javascript Framework',
+    getName: function () {
+        return "Hello";
+    }
+};
 showToDo(myToDo);
