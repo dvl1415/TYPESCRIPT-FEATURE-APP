@@ -1,0 +1,50 @@
+What is Typescript 
+-----------------
+1. Superset of Javascript developed by microsoft 
+2. Superset : Anything we can do in javascript can be done in typescript 
+3. Compiles into Javascript ( because browser can only read javascript)
+4. Can be easily integrated into Javascript Projects
+5. Designed for developement of large applications 
+
+
+what does it offers
+---------------------
+1. static type checking 
+2. Claas based objects
+3. Modularity 
+4. ES6 features (let, const, fat arrow functions)
+
+Types
+-------
+String
+Number
+Boolean
+Array
+Any 
+void
+null 
+Tuple
+Enum
+Generics
+
+Class based objects
+-------------------------
+1. Object Oriented Programming 
+2. No Proptotypes
+3. Encapsulation 
+4. Inheritance 
+5. Access Modifiers 
+
+
+TypeScript Compiler (tsc)
+-------------------------
+1. Written in Typescript itself
+2. Compiles .ts files inot .js files
+3. Install as an npm package 
+4. Supports ES6 syntax 
+
+Pre-requisites
+---------------
+1. Node js Installed
+2. npm install -g typescript 
+3. create a project
