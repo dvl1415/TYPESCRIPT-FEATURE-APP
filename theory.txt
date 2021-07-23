@@ -47,4 +47,4 @@ Pre-requisites
 ---------------
 1. Node js Installed
 2. npm install -g typescript 
-3. create a project
+3. create a project         
